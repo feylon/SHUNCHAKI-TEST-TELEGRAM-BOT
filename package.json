@@ -1,0 +1,16 @@
+{
+  "name": "papka",
+  "version": "1.0.0",
+  "description": "Shunchaki test uchun",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "Ergashev Jamshid",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "i": "^0.3.7",
+    "npm": "^10.8.3"
+  }
+}
